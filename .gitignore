@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# R
+*.RData 
+*.rdb
+*.rdx
+*.rds
+*__packages
+
+# OSX related files
+.DS_Store
+.AppleDouble
+.LSOverride
