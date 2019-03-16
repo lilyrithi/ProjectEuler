@@ -109,3 +109,8 @@ venv.bak/
 *.rdx
 *.rds
 *__packages
+
+# OSX related files
+.DS_Store
+.AppleDouble
+.LSOverride
